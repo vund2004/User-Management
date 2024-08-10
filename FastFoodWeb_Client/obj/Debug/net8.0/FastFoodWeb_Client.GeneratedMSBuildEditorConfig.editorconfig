@@ -1,0 +1,191 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FastFoodWeb_Client
+build_property.RootNamespace = FastFoodWeb_Client
+build_property.ProjectDir = D:\K1\FastFood_Website\FastFoodWeb_Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\K1\FastFood_Website\FastFoodWeb_Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/AdminHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQWRtaW5IZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/AdminLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQWRtaW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/AdminSideBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQWRtaW5TaWRlQmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/ImageUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcSW1hZ2VVcGxvYWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/MainLayoutFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/MainLayoutHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dEhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Layout/NullLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTnVsbExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Account/ForgotPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY2NvdW50XEZvcmdvdFBhc3N3b3JkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Account/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY2NvdW50XExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Account/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY2NvdW50XExvZ291dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Account/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY2NvdW50XFJlZ2lzdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Account/ResetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY2NvdW50XFJlc2V0UGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/AdminMainPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxBZG1pbk1haW5QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLCategory/AddCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTENhdGVnb3J5XEFkZENhdGVnb3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLCategory/Categories.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTENhdGVnb3J5XENhdGVnb3JpZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLCategory/EditCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTENhdGVnb3J5XEVkaXRDYXRlZ29yeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLCoupon/AddCoupon.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTENvdXBvblxBZGRDb3Vwb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLCoupon/Coupons.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTENvdXBvblxDb3Vwb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLCoupon/EditCoupon.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTENvdXBvblxFZGl0Q291cG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLOrder/EditOrders.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTE9yZGVyXEVkaXRPcmRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLOrder/Orders.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTE9yZGVyXE9yZGVycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLProduct/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFByb2R1Y3RcQWRkUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLProduct/EditProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFByb2R1Y3RcRWRpdFByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLProduct/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFByb2R1Y3RcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLRole/AddRole.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFJvbGVcQWRkUm9sZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLRole/EditRole.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFJvbGVcRWRpdFJvbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLRole/Roles.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFJvbGVcUm9sZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLUserRole/EditUserRole.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFVzZXJSb2xlXEVkaXRVc2VyUm9sZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLUserRole/UserRoles.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFVzZXJSb2xlXFVzZXJSb2xlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLUser/EditUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFVzZXJcRWRpdFVzZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Admin/QLUser/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG1pblxRTFVzZXJcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Client/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRcQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Client/CheckOut.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRcQ2hlY2tPdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Client/DetailProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRcRGV0YWlsUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Client/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Client/OrderHistory.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRcT3JkZXJIaXN0b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Client/Shop.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRcU2hvcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Client/UserInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRcVXNlckluZm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K1/FastFood_Website/FastFoodWeb_Client/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
